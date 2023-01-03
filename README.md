@@ -6,8 +6,8 @@
   
   <h1 align="center">Olá! 👋 me chamo Eric</h1>
 <h3 align="center">Sou uma pessoa apaixonada por inovação e tecnologia, tendo sempre como prioridade estudar e estar antenado sobre novidades no mundo da tecnologia como um todo.</h3>
-  <h2 align="center">Formado no ensino Técnico em Desenvolvimento de Sistemas - ETEC Joaquim Ferreira do Amaral</h2>
-  <h2 align="center">Bacharel em Engenharia de Software em andamento - Anhanguera Educacional</h2>
+  <h4 align="center">Formado no ensino Técnico em Desenvolvimento de Sistemas - ETEC Joaquim Ferreira do Amaral</h2>
+  <h4 align="center">Bacharel em Engenharia de Software em andamento - Anhanguera Educacional</h2>
 
 <h3 align="left">Linkedin:</h3>
 <p align="left">
