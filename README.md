@@ -4,7 +4,7 @@
   <a href="https://github.com/eric-oliveira23">
 </div>
  
-<h3 align="center">Sou uma pessoa apaixonada por inovação e tecnologia, tendo sempre como prioridade estudar e estar antenado sobre novidades no mundo da tecnologia como um todo.</h3>
+<h3 align="center">Sou uma pessoa apaixonada por inovação e tecnologia, tendo sempre como prioridade estudar e estar antenado sobre novidades no mundo tecnológico como um todo.</h3>
   <h4 align="center">Formado no ensino Técnico em Desenvolvimento de Sistemas - ETEC Joaquim Ferreira do Amaral</h2>
   <h4 align="center">Bacharel em Engenharia de Software em andamento - Anhanguera Educacional</h2>
 
