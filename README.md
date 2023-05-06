@@ -9,7 +9,4 @@ Howdy, I'm Eric 👋<br>I'm a tech enthusiast who is always eager to learn about
 ![](https://github-readme-streak-stats.herokuapp.com/?user=eric-oliveira23&theme=blueberry&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=eric-oliveira23&theme=blueberry&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=eric-oliveira23&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
