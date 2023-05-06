@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🚀 About Me:
 Howdy, I'm Eric 👋<br>I'm a tech enthusiast who is always eager to learn about new innovations and advancements in the world of technology.<br>Graduated in technical course in Systems Development.<br>Currently pursuing a Bachelor's degree in Software Engineering from Anhanguera Educacional.<br><br>🛠️ Tools & Technologies<br>These are some of the tools and technologies i'm actually studying:<br><br>Android<br>Java<br>Kotlin<br>Flutter<br><br><br>🔗 Connect with Me<br>If you're interested in connecting with me, feel free to check out my LinkedIn profile at:<br><br>https://www.linkedin.com/in/eric-oliveira-b7909a226/
 
 
